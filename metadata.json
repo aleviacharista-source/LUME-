@@ -1,0 +1,6 @@
+{
+  "name": "LUMÉ Luxury Cosmetics",
+  "description": "Production-ready responsive e-commerce website and interactive 3D product showroom for LUMÉ, a premium cosmetic brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
